@@ -218,7 +218,7 @@ img {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  background: var(--hero-btn-hov-foc);
+  background-color: var(--hero-btn-hov-foc);
 }
 
 /************************FEATURES*********************/
